@@ -1,6 +1,11 @@
-## About Me: 
+## About Me:
 * Richard Atwell
-  * 🎓 ODU '20 CS Grad
+* 🎓 Old Dominion University Graduate
+    * :computer: Computer Science Major
+    * Class of 2020
+* Likes
+    * :baseball: Go Nats!
+
 ## 🧰 My Tools:
 <p align="left">
 <kbd><img align="center" alt="Java" width="72px" height="72px" src="https://user-images.githubusercontent.com/21161445/95686709-ac309b80-0bcd-11eb-816a-8f84bb814cd3.png" /></kbd>
@@ -15,3 +20,7 @@
 <kbd><img align="center" alt="Ubuntu" width="72px" height="72px" src="https://cdn.svgporn.com/logos/ubuntu.svg" /></kbd>
 </p>
 
+## Connect with me:
+[<img align="left" alt="Richard | LinkedIn" height="28px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/rmatwell/
