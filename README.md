@@ -1,6 +1,6 @@
 ## About Me:
 * Richard Atwell
-* Team player with a passion for problem solving
+* Enjoys collaborating with others who share a passion for problem solving
 * 👑🦁 Old Dominion University Graduate
     * :computer: Computer Science Major
     * 🎓 Class of 2020
