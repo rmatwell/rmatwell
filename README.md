@@ -6,6 +6,7 @@
     * 🎓 Class of 2020
 * 👍 Likes
     * :baseball: Go Nats!
+    * 💪 Working out
 
 ## 🧰 My Tools:
 <p align="left">
