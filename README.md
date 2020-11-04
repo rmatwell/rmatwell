@@ -1,6 +1,7 @@
 ## About Me:
 * Richard Atwell
 * Enjoys collaborating with others who share a passion for problem solving
+* Native of Northern Virginia
 * 👑🦁 Old Dominion University Graduate
     * :computer: Computer Science Major
     * 🎓 Class of 2020
