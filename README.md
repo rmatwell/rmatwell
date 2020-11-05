@@ -7,7 +7,9 @@
     * 🎓 Class of 2020
 * 👍 Likes
     * :baseball: Go Nats!
-    * 💪 Working out
+    * 💪 Working out󠁵
+    
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rmatwell)](https://github.com/rmatwell/github-readme-stats)
 
 ## 🧰 My Tools:
 <p align="left">
