@@ -8,8 +8,6 @@
 * 👍 Likes
     * :baseball: Go Nats!
     * 💪 Working out󠁵
-    
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rmatwell)](https://github.com/rmatwell/github-readme-stats)
 
 ## 🧰 My Tools:
 <p align="left">
@@ -24,6 +22,9 @@
 <kbd><img align="center" alt="Linux" width="64px" height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg" /></kbd>
 <kbd><img align="center" alt="Ubuntu" width="64px" height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg" /></kbd>
 </p>
+
+## My Stats:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rmatwell)](https://github.com/rmatwell/github-readme-stats)
 
 ## :link: Link with me:
 [<img align="left" alt="Richard | LinkedIn" height="28px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
