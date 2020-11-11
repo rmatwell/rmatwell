@@ -8,7 +8,7 @@
 * 👍 Likes
     * :baseball: Go Nats!
     * 💪 Working out󠁵
-    * Learning about the latest tech
+    * :desktop_computer: Learning about the latest tech
 
 ## 🧰 My Tools:
 <p align="left">
