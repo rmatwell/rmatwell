@@ -1,7 +1,7 @@
 ## About Me:
 * Richard Atwell
 * Enjoys collaborating with others who share a passion for problem solving
-* Native of Northern Virginia
+* Native of Northern Virginia (Washington D.C. Area)
 * 👑🦁 Old Dominion University Graduate
     * :computer: Computer Science Major
     * 🎓 Class of 2020
@@ -14,8 +14,8 @@
 <p align="left">
 <kbd><img align="center" alt="Java" width="64px" height="64px" src="https://user-images.githubusercontent.com/21161445/95686709-ac309b80-0bcd-11eb-816a-8f84bb814cd3.png" /></kbd>
 <kbd><img align="center" alt="Android" width="64px" height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg" /></kbd>
-<kbd><img align="center" alt="Java" width="64px" height="64px" src="https://cdn.svgporn.com/logos/react.svg" /></kbd>
-<kbd><img align="center" alt="Java" width="64px" height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" /></kbd>
+<kbd><img align="center" alt="React" width="64px" height="64px" src="https://cdn.svgporn.com/logos/react.svg" /></kbd>
+<kbd><img align="center" alt="Spring" width="64px" height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" /></kbd>
 <kbd><img align="center" alt="Docker" width="64px" height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg" /></kbd>
 <kbd><img align="center" alt="Git" width="64px" height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg" /></kbd>
 <kbd><img align="center" alt="MySQL" width="64px" height="64px" src="https://cdn.svgporn.com/logos/mysql.svg" /></kbd> 
